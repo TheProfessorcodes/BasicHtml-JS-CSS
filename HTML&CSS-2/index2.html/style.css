@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(135, 211, 244);
+    color: black;
+    font-family: cursive;
+    font-size: small;
+    }
+
+p{
+    color: blueviolet;
+}
+div{
+    background-color: beige;
+    width: 500px;
+}
+span{
+    background-color: pink;
+}
+
+.top-section{
+    background-color: rgb(255, 255, 255);
+    background-image: url(scenery.jpg.jpg);
+    padding: 200px ;
+    background-size: cover;
+    color: white;
+} 
+.intro{
+    background-color: brown;
+    color: aliceblue;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: rgb(0, 255, 72);
+
+}
